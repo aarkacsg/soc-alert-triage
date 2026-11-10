@@ -26,12 +26,12 @@ The investigations cover identity alerts, endpoint detections, network activity,
 
 | Case | Scenario | Verdict |
 | --- | --- | --- |
-| CLD-0101 | Authentication failures during credential rotation | False Positive |
-| CLD-0102 | Credential-stealing malware on an endpoint | True Positive |
-| CLD-0103 | Authorised vulnerability scan | False Positive |
-| CLD-0104 | MFA failures followed by successful sign-in | False Positive |
-| CLD-0105 | Reported payroll email | False Positive |
-| CLD-0106 | Duplicate Defender malware alert | Duplicate |
+| [CLD-0101](cases/CLD-0101.md) | Authentication failures during credential rotation | False Positive |
+| [CLD-0102](cases/CLD-0102.md) | Credential-stealing malware on an endpoint | True Positive |
+| [CLD-0103](cases/CLD-0103.md) | Authorised vulnerability scan | False Positive |
+| [CLD-0104](cases/CLD-0104.md) | MFA failures followed by successful sign-in | False Positive |
+| [CLD-0105](cases/CLD-0105.md) | Reported payroll email | False Positive |
+| [CLD-0106](cases/CLD-0106.md) | Duplicate Defender malware alert | Duplicate |
 
 ## Triage Method
 
